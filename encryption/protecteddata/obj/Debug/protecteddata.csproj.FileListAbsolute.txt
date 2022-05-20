@@ -1,0 +1,8 @@
+C:\Users\juyeongj\Documents\GitHub\encryptexample\encryption\protecteddata\bin\Debug\protecteddata.exe.config
+C:\Users\juyeongj\Documents\GitHub\encryptexample\encryption\protecteddata\bin\Debug\protecteddata.exe
+C:\Users\juyeongj\Documents\GitHub\encryptexample\encryption\protecteddata\bin\Debug\protecteddata.pdb
+C:\Users\juyeongj\Documents\GitHub\encryptexample\encryption\protecteddata\obj\Debug\protecteddata.csproj.AssemblyReference.cache
+C:\Users\juyeongj\Documents\GitHub\encryptexample\encryption\protecteddata\obj\Debug\protecteddata.csproj.SuggestedBindingRedirects.cache
+C:\Users\juyeongj\Documents\GitHub\encryptexample\encryption\protecteddata\obj\Debug\protecteddata.csproj.CoreCompileInputs.cache
+C:\Users\juyeongj\Documents\GitHub\encryptexample\encryption\protecteddata\obj\Debug\protecteddata.exe
+C:\Users\juyeongj\Documents\GitHub\encryptexample\encryption\protecteddata\obj\Debug\protecteddata.pdb
