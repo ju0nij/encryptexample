@@ -29,10 +29,10 @@ namespace protecteddata
             Console.Write("변환할 텍스트를 입력해주세요: ");
             ProtectedDataEx protecteddata = new ProtectedDataEx();
             string text = Console.ReadLine();
-            string encode = protecteddata.Protect(text);
-            Console.WriteLine("Data Encode: " + encode);
-            string decode = protecteddata.Unprotect(encode);
-            Console.WriteLine("Data Decode: " + decode);
+            string encrypteddata = protecteddata.Protect(text);
+            Console.WriteLine("Data Encrypt: " + encrypteddata);
+            string decrypteddata = protecteddata.Unprotect(encrypteddata);
+            Console.WriteLine("Data Decrypt: " + decrypteddata);
         }
     }
 }
